@@ -1,0 +1,21 @@
+{
+  "name": "svg_logo_maker",
+  "version": "1.0.0",
+  "description": "* Author: Kyosook Shin\r   * Author's Email: kyosook.shin@gmail.com  \r   * GitHub: https://github.com/alla0810/readme_generator\r   * Walkthrough Video\r     https://drive.google.com/file/d/11Jq09KdMogAlfzqCMzKKjAHJSA6fbtv5/view",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}

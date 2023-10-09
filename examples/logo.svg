@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<body>
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="200">
+<circle cx="150" cy="100" r="80" fill="#FF7300" />
+<text text_anchor="middle" x="100" y="115" fill="#FEFE" font-size="3em">KYO</text>
+</svg>
+</body>
+</html>
