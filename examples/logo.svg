@@ -2,8 +2,8 @@
 <html>
 <body>
 <svg xmlns="http://www.w3.org/2000/svg" width="300" height="200">
-<circle cx="150" cy="100" r="80" fill="#FF7300" />
-<text text_anchor="middle" x="100" y="115" fill="#FEFE" font-size="3em">KYO</text>
+<rect width="140" height="140" x="20" y="20" fill="green" />
+<text text_anchor="middle" x="38" y="105" fill="yellow" font-size="3em">KYO</text>
 </svg>
 </body>
 </html>

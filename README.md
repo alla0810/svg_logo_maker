@@ -2,13 +2,14 @@
 
   * Author: Kyosook Shin
   * Author's Email: kyosook.shin@gmail.com  
-  * GitHub: https://github.com/alla0810/readme_generator
+  * GitHub: https://github.com/alla0810/svg_logo_maker
   * Walkthrough Video
     https://drive.google.com/file/d/11Jq09KdMogAlfzqCMzKKjAHJSA6fbtv5/view
 
-  * screenshot
-![screen1](./images/screen1.png)
-![screen2](./images/screen2.png)
+  * screenshot  
+<img src='./images/screen1.png' width="300">  
+
+<img src='./images/screen2.png' width="500" >
 
 
 
@@ -45,8 +46,7 @@ GIVEN a command-line application that accepts user input
 ## Mock-Up
 The following image shows a mock-up of the generated SVG given the following input entered by the user: svg for the text, white for the text color, circle from the list of shapes, and green for the shape color.  Note that this is just an image of the output SVG and not the SVG file itself
 
-![appearance](./images/10-oop-homework-demo.png)
-
+<img src='./images/10-oop-homework-demo.png' width="200" >
 
 ## Deliverables: 15%
 * At least one sample SVG file generated using the application must be submitted
