@@ -4,7 +4,8 @@
   * Author's Email: kyosook.shin@gmail.com  
   * GitHub: https://github.com/alla0810/svg_logo_maker
   * Walkthrough Video
-    https://drive.google.com/file/d/11Jq09KdMogAlfzqCMzKKjAHJSA6fbtv5/view
+    https://drive.google.com/file/d/1Oc8MBZeKLlm1XxBmednCEtryHG0nnUEk/view
+    
 
   * screenshot  
 <img src='./images/screen1.png' width="300">  
