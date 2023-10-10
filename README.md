@@ -9,7 +9,7 @@
 
   * screenshot  
 
-<img src='./images/screen5.png' width="500">  
+<img src='./images/screen5.png' width="600">  
 
 <img src='./images/screen1.png' width="300">  
 
