@@ -75,7 +75,7 @@ function inquireHandler() {
     .prompt([
       {
         type: 'input',
-        message: 'text: ',
+        message: 'text (1~3 characters): ',
         name: 'text',
       },
       {
